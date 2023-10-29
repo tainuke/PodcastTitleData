@@ -10,4 +10,4 @@ mecab-python3 1.0.8 <BR>
 ipadic  1.0.0<BR>
 matplotlib  3.8.0 <BR>
 で実行しています。<BR>
-
+<a href="/performerRelation.ipynb">出演者向けデータを抽出できるプログラムを追加しました。</a>
